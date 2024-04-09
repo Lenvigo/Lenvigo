@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+
+
+🔭 Skills: Marketing, Business Administration, Strategic Planning, Market Research, Customer Relationship Management.
+🌱 I’m currently learning Web Development.
+
+
+
+
+
+
+
 ### 🛠 &nbsp;Tech 
 
 <!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;-->
@@ -36,7 +47,7 @@
 
 
 
-- 🌱 I’m currently learning ...
+
 
 
 <!--
